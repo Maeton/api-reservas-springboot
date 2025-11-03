@@ -19,7 +19,7 @@ public class Reserva {
 
 
     public Reserva() {
-        // Constructor vacío
+        
     }
 
 
